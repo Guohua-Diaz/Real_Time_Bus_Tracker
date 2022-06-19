@@ -8,3 +8,8 @@
 
 ## Roadmap of future improvements
 > Using mapbox gl js aim to make 3D data animated maps 
+
+## License information
+[MIT license](https://choosealicense.com/licenses/mit/)
+
+![Mit to Harvard](https://user-images.githubusercontent.com/102787056/174468350-6ade2d7a-e694-44bc-a0c0-3d08511d81dd.jpg)
