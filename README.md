@@ -13,3 +13,9 @@
 [MIT license](https://choosealicense.com/licenses/mit/)
 
 ![Mit to Harvard](https://user-images.githubusercontent.com/102787056/174468350-6ade2d7a-e694-44bc-a0c0-3d08511d81dd.jpg)
+
+## How to run
+   1. Clone the repo (remember which folder the repo was cloned)
+   2. Open Chrome.
+   3. On Chrome, click File->Open File
+   4. Select index.html
